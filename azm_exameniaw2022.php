@@ -1,4 +1,7 @@
 <html>
+ <head>
+  <link href="style.css" rel="stylesheet" type="text/css">
+ </head>
  <body>
   <h1><?php echo "Adriano Zurita Martinez" ?></h1>
   <h1><?php echo "25/10/2022" ?></h1>
