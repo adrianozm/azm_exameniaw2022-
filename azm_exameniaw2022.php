@@ -1,3 +1,7 @@
-<?php
-	echo("Adriano Zurita 25/10/2022 un repositorio de codigo es donde se mete las cosas exameniaw2022azm")
-?>
+<html>
+ <body>
+  <h1><?php echo "Adriano Zurita Martinez" ?></h1>
+  <h1><?php echo "25/10/2022" ?></h1>
+  <h1><?php echo "este es mi repositorio azm_exameniaw2022.php" ?></h1>
+ </body>
+</html>
